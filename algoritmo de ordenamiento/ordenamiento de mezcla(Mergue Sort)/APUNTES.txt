@@ -1,0 +1,19 @@
+algoritmo de ordenamiento externo, estable, se basa en la tecnica
+divie y venceras, es similar a quicksort.
+desarrollado por:
+john von neumann
+
+
+
+
+
+Conclusión
+
+Para la comprensión a fondo de este método es necesario tener un conocimiento 
+básico sobre recursividad, puesto que este recurso es utilizado en el código anterior.
+
+Hasta aquí, hemos visto los principales aspectos del método de ordenamiento
+ Merge Sort, tales como su funcionamiento, complejidad y estrategias que utiliza 
+para llevar a cabo el ordenamiento de una lista. Por ahora me despedimo, 
+pero nos vemos próximamente en un nuevo artículo sobre el algoritmo Quick Sort. 
+No olvides dejar tus dudas y sugerencias en los comentarios. Hasta la próxima.

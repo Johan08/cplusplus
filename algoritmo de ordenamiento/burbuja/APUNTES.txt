@@ -1,0 +1,15 @@
+metodo burbuja
+
+funciona revisando cada elemento de la lista que va ser ordenada 
+con lo siguiente, intercambiandolos de posicion, si estan en orden equivocado.
+Es necesario revisar varias veces todas las listas hasta que no necesiten mas intercambios,
+lo cual significa que la lista esta ordenada.
+
+
+si na > ns
+si es valido este caso 
+entonces ns toma la posicion de na.
+y na toma la posicion de ns.
+
+
+

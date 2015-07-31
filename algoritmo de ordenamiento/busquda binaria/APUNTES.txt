@@ -1,0 +1,23 @@
+requisitos para llear a cabo busqueda binaria
+
+1- arreglo debe tener valores unicos
+
+2- debe estar ordenado de forma ascendente.
+
+
+L = arreglo ordenado de n valores
+
+D = dato a buscar
+
+
+
+tomamos el valor entero 4.5 es el 4.
+
+30 es el dato a buscar y se encuentra a la izquierda del pto medio
+
+si D esta por debajo del pto medio es decir; D<L[M]  
+
+M= Z-1
+
+
+
